@@ -40,5 +40,5 @@ jobs:
           project: "yofoon-bibigpt-v1-60"
           entrypoint: "jsr:@deno/nextjs-start/v15"
           root: "."
-          include: .next, public
+          
           
